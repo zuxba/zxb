@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white
+    
+}
+table, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+div{
+    color: blue;
+    text-align: center;
+}
+.pirveli{
+    width: 100px;
+}
